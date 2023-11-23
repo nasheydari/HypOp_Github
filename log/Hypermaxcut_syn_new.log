@@ -1,0 +1,2 @@
+INFO:main:Hyp_8901_13058.txt:, running time: 4711.685179718, res: [[-12731]], res_th: [[-12584]], res2: [], training_time: 304.56530077900004, mapping_time: 4213.1871038
+INFO:main:Hyp_901_1333.txt:, running time: 63.757027374000245, res: [[-1300]], res_th: [[-1274]], res2: [], training_time: 22.162370173000454, mapping_time: 41.10097868600042

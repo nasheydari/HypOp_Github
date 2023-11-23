@@ -1,0 +1,10 @@
+INFO:main:Random_4_Over1000_200.txt:, running time: 16.095297836, res: [[tensor(-148.)]], res_th: [[tensor(-147.)]], res2: [], training_time: 13.888267940999999, mapping_time: 2.176649926000003
+INFO:main:Random_10_Over1000_200.txt:, running time: 15.925681133000001, res: [[tensor(-112.)]], res_th: [[tensor(-108.)]], res2: [], training_time: 13.605899162999997, mapping_time: 2.301895121000001
+INFO:main:Random_5_Over1000_200.txt:, running time: 11.235847051, res: [[tensor(-140.)]], res_th: [[tensor(-137.)]], res2: [], training_time: 8.968911322000004, mapping_time: 2.2514319560000047
+INFO:main:Random_1_Over1000_200.txt:, running time: 7.920572280999998, res: [[tensor(-183.)]], res_th: [[tensor(-180.)]], res2: [], training_time: 5.818189291000003, mapping_time: 2.0892694659999975
+INFO:main:Random_6_Over1000_200.txt:, running time: 12.511055364, res: [[tensor(-132.)]], res_th: [[tensor(-129.)]], res2: [], training_time: 10.107103410999997, mapping_time: 2.386430384999997
+INFO:main:Random_9_Over1000_200.txt:, running time: 13.952187382000005, res: [[tensor(-121.)]], res_th: [[tensor(-117.)]], res2: [], training_time: 11.459731574000003, mapping_time: 2.475598065000014
+INFO:main:Random_2_Over1000_200.txt:, running time: 12.390701575000008, res: [[tensor(-164.)]], res_th: [[tensor(-163.)]], res2: [], training_time: 10.005713277000012, mapping_time: 2.370512058999992
+INFO:main:Random_7_Over1000_200.txt:, running time: 13.586654880999987, res: [[tensor(-124.)]], res_th: [[tensor(-123.)]], res2: [], training_time: 10.907041371000005, mapping_time: 2.6621610460000085
+INFO:main:Random_8_Over1000_200.txt:, running time: 15.246337100000005, res: [[tensor(-119.)]], res_th: [[tensor(-117.)]], res2: [], training_time: 12.352755850999998, mapping_time: 2.8356534690000075
+INFO:main:Random_3_Over1000_200.txt:, running time: 19.825694487000007, res: [[tensor(-158.)]], res_th: [[tensor(-155.)]], res2: [], training_time: 16.047954288000014, mapping_time: 3.7622257649999824
